@@ -1,0 +1,7 @@
+c:\users\thomas\documents\visual studio 2015\Projects\CSharpHealthCheck\CSharpHealthCheck\bin\Debug\CSharpHealthCheck.exe.config
+c:\users\thomas\documents\visual studio 2015\Projects\CSharpHealthCheck\CSharpHealthCheck\bin\Debug\CSharpHealthCheck.exe
+c:\users\thomas\documents\visual studio 2015\Projects\CSharpHealthCheck\CSharpHealthCheck\bin\Debug\CSharpHealthCheck.pdb
+c:\users\thomas\documents\visual studio 2015\Projects\CSharpHealthCheck\CSharpHealthCheck\bin\Debug\MySql.Data.dll
+c:\users\thomas\documents\visual studio 2015\Projects\CSharpHealthCheck\CSharpHealthCheck\obj\Debug\CSharpHealthCheck.csprojResolveAssemblyReference.cache
+c:\users\thomas\documents\visual studio 2015\Projects\CSharpHealthCheck\CSharpHealthCheck\obj\Debug\CSharpHealthCheck.exe
+c:\users\thomas\documents\visual studio 2015\Projects\CSharpHealthCheck\CSharpHealthCheck\obj\Debug\CSharpHealthCheck.pdb
